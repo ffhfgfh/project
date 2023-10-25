@@ -1,0 +1,30 @@
+h1{
+    font-family: 'Sometype Mono', monospace;
+}
+
+
+.navigation{
+    position:relative;
+    display:flex;
+    font-weight: 400;
+    
+    flex-direction: row;
+    gap: 2rem;
+    justify-content: space-evenly;
+    margin-top:3rem;
+
+}
+.articles{
+    margin-bottom: 100px;
+}
+h2{
+    display: flex;
+    font-family: 'Sometype Mono', monospace;
+    margin: 4rem;
+}
+p{
+    font-family: 'Merriweather', serif;
+    flex: 1;
+    margin-left: 4rem;
+}
+
