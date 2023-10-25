@@ -1,7 +1,11 @@
 h1{
     font-family: 'Sometype Mono', monospace;
 }
+.carbon-calculator{
+    display:flex;
+    justify-content: center;
 
+}
 
 .navigation{
     position:relative;
