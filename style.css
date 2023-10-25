@@ -6,7 +6,9 @@ h1{
     justify-content: center;
 
 }
-
+li{
+    list-style-type: none;
+}
 .navigation{
     position:relative;
     display:flex;
